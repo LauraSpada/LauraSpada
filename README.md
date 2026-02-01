@@ -16,91 +16,91 @@ src="https://media.licdn.com/dms/image/v2/D4D16AQGfCETr2byMIA/profile-displaybac
 <img 
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img 
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 <img 
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
 
 <img 
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
           
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
 <img 
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img
 align="left"
 style="padding-right: 8px"
-width="40px"
+width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
 <br/>
